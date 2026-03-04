@@ -122,8 +122,15 @@ This dashboard provides a structured and visual solution to overcome these chall
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshot below)
+<p align="center">
+  <img src="Dashbord_Images/Battery_Performance_Analysis_Page.PNG" width="400">
+  <img src="images/battery-analysis.png" width="400">
+</p>
 
+<p align="center">
+  <img src="images/charging-analysis.png" width="400">
+  <img src="images/cost-analysis.png" width="400">
+</p>
 
 ---
 
