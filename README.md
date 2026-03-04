@@ -138,8 +138,8 @@ This dashboard provides a structured and visual solution to overcome these chall
 
 ---
 
-## 👤 Author
+##  👨‍💻 Author
 
-Vipul Alsundkar
+**Vipul Alsundkar** <br>
 Data & BI Enthusiast
 
