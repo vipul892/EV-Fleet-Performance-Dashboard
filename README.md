@@ -123,13 +123,17 @@ This dashboard provides a structured and visual solution to overcome these chall
 ## 📷 Dashboard Preview
 
 <p align="center">
+  <img src="Dashbord_Images/Exacutive_Overview_Page.PNG" width="400">
   <img src="Dashbord_Images/Battery_Performance_Analysis_Page.PNG" width="400">
-  <img src="images/battery-analysis.png" width="400">
 </p>
 
 <p align="center">
-  <img src="images/charging-analysis.png" width="400">
-  <img src="images/cost-analysis.png" width="400">
+  <img src="Dashbord_Images/Sustainability_and_Enviromental_Impact_page.PNG" width="400">
+  <img src="Dashbord_Images/Cost_and_Ownership_Analysis_Page.PNG" width="400">
+</p>
+
+<p align="center">
+  <img src="Dashbord_Images/Driving_Behaviour_and_usage_pattern_analysis.PNG" width="400">
 </p>
 
 ---
