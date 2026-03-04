@@ -140,5 +140,6 @@ This dashboard provides a structured and visual solution to overcome these chall
 
 ## 👤 Author
 
-Vipul Alsundkar  
+Vipul Alsundkar
+Data & BI Enthusiast
 
